@@ -1,0 +1,9 @@
+{
+    "name":"Apexa",
+    "category":"Competitive Exam Center",
+    "categoryId":4,
+    "exam":{
+        "name":"UPSC",
+        "id":1
+    }
+}

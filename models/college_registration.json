@@ -1,0 +1,9 @@
+{
+    "name":"GLS College",
+    "category":"College",
+    "categoryId":3,
+    "college":{
+        "university":"GTU",
+        "universityId":1
+    }
+}

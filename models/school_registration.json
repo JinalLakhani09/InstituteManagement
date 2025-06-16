@@ -1,0 +1,22 @@
+{
+    "name":"SPEI",
+    "category":"School",
+    "categoryId":2,
+    "school":{
+        "board":"CBSE",
+        "boardId":1,
+        "medium":"Hindi",
+        "mediumId":1,
+        "class":"Primary",
+        "classId":2,
+        "standard":"1st",
+        "standardId":1,
+        "subjects":[{
+            "name":"Math",
+            "id":1
+        },{
+            "name":"Science",
+            "id":2
+        }]
+    }
+}
